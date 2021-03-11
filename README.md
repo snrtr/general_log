@@ -8,4 +8,4 @@ $password = ""; \
 değişkenlerini düzenleyin. \
 Sorguları aktif/pasif hale getirmek için SET komutu kullandığı için tam yetkili bir kullanıcı vermeniz gerekiyor. \
 Düzenlemelerinizi yaptıktan sonra tarayıcıda açın ve "Aktif et" butonuna tıkladıktan sonra mysql'e gelen sorgularınızı anlık olarak görebilirsiniz. \
-Aktif/Pasif yaparak eski sorgu kayıtlarını temizleyebilirsiniz. \
+Aktif/Pasif yaparak eski sorgu kayıtlarını temizleyebilirsiniz.
